@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="./img/favicon.png" rel="shortcut icon"/>
+        <meta charset="utf-8"/>
+        <meta content="width=1280, maximum-scale=1.0" name="viewport"/>
+        <link href="./css/a11.css" rel="stylesheet" type="text/css"/>
+        <meta content="Launchpad by Anima" name="author">
+        </meta>
+    </head>
+    <body style="margin: 0;
+ background: rgba(247, 250, 251, 1.0);">
+        <input id="anPageName" name="page" type="hidden" value="a11"/>
+        <div class="a11">
+            <div style="width: 1280px; height: 100%; position:relative; margin:auto;">
+                <a href="a1111.html">
+                    <div class="group">
+                        <div class="button">
+                            <div class="base">
+                            </div>
+                        </div>
+                        <div class="meetothers">
+                            Meet others
+                        </div>
+                    </div>
+                </a>
+                <a href="a12.html">
+                    <div class="group2">
+                        <div class="button">
+                            <div class="base">
+                            </div>
+                        </div>
+                        <div class="experts">
+                            Experts
+                        </div>
+                    </div>
+                </a>
+                <a href="a12.html">
+                    <div class="group3">
+                        <div class="buttoncopy">
+                            <div class="base">
+                            </div>
+                        </div>
+                        <div class="moderator">
+                            Moderator
+                        </div>
+                    </div>
+                </a>
+                <div class="group2copy3">
+                    <div class="group2copy">
+                        <div class="authbuttons">
+                            <div class="rectangle">
+                            </div>
+                        </div>
+                        <div class="virtualsupport">
+                            <span class="span1">Virtual Support</span><span class="span2"> </span>
+                        </div>
+                        <div class="patientlearning">
+                            Patient Learning
+                        </div>
+                        <div class="patientadocate">
+                            Patient Adocate
+                        </div>
+                        <div class="contactus">
+                            Contact Us
+                        </div>
+                        <div class="signinsignup">
+                            Sign In/ Sign Up
+                        </div>
+                    </div>
+                </div>
+                <img anima-src="./img/1-1-1-2-nurseandmansmiling-copy.png" class="nurseandmansmiling" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="findacommunityto">
+                    Find a community to exchange your concerns with those who truly understand how you feel.  Every support group is moderated by an expert capable of providing health advice and mental support. We care about your privacy and health.
+                </div>
+                <div class="forgetaboutdriving">
+                    Forget about driving to hospitals and waiting in line. Tell us your chronic disease, and we will ensure you receive thorough medical consultation from our licensed medical professionals.
+                </div>
+                <div class="join11mentorship">
+                    Join 1:1 mentorship program with an experienced person that has already been through your struggle. Each mentor background check is validated so you do not have to worry about anything! Ask for advice, guidance, resources, or talk!
+                </div>
+            </div>
+        </div>
+        <!-- Scripts -->
+        <script>
+            anima_isHidden = function(e) {
+                if (!(e instanceof HTMLElement)) return !1;
+                if (getComputedStyle(e).display == "none") return !0; else if (e.parentNode && anima_isHidden(e.parentNode)) return !0;
+                return !1;
+            };
+            anima_loadAsyncSrcForTag = function(tag) {
+                var elements = document.getElementsByTagName(tag);
+                var toLoad = [];
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var src = e.getAttribute("src");
+                    var loaded = (src != undefined && src.length > 0 && src != 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+                    if (loaded) continue;
+                    var asyncSrc = e.getAttribute("anima-src");
+                    if (asyncSrc == undefined || asyncSrc.length == 0) continue;
+                    if (anima_isHidden(e)) continue;
+                    toLoad.push(e);
+                }
+                toLoad.sort(function(a, b) {
+                    return anima_getTop(a) - anima_getTop(b);
+                });
+                for (var i = 0; i < toLoad.length; i++) {
+                    var e = toLoad[i];
+                    var asyncSrc = e.getAttribute("anima-src");
+                    e.setAttribute("src", asyncSrc);
+                }
+            };
+            anima_pauseHiddenVideos = function(tag) {
+                var elements = document.getElementsByTagName("video");
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var isPlaying = !!(e.currentTime > 0 && !e.paused && !e.ended && e.readyState > 2);
+                    var isHidden = anima_isHidden(e);
+                    if (!isPlaying && !isHidden && e.getAttribute("autoplay") == "autoplay") {
+                        e.play();
+                    } else if (isPlaying && isHidden) {
+                        e.pause();
+                    }
+                }
+            };
+            anima_loadAsyncSrc = function(tag) {
+                anima_loadAsyncSrcForTag("img");
+                anima_loadAsyncSrcForTag("iframe");
+                anima_loadAsyncSrcForTag("video");
+                anima_pauseHiddenVideos();
+            };
+            var anima_getTop = function(e) {
+                var top = 0;
+                do {
+                    top += e.offsetTop || 0;
+                    e = e.offsetParent;
+                } while (e);
+                return top;
+            };
+            anima_loadAsyncSrc();
+            anima_old_onResize = window.onresize;
+            anima_new_onResize = undefined;
+            anima_updateOnResize = function() {
+                if (anima_new_onResize == undefined || window.onresize != anima_new_onResize) {
+                    anima_new_onResize = function(x) {
+                        if (anima_old_onResize != undefined) anima_old_onResize(x);
+                        anima_loadAsyncSrc();
+                    };
+                    window.onresize = anima_new_onResize;
+                    setTimeout(function() {
+                        anima_updateOnResize();
+                    }, 3000);
+                }
+            };
+            anima_updateOnResize();
+            setTimeout(function() {
+                anima_loadAsyncSrc();
+            }, 200);
+        </script>
+        <!-- End of Scripts -->
+    </body>
+</html>

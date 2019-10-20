@@ -1,0 +1,1364 @@
+
+
+.wireframefourcopy2 {
+  width               : 100%;
+  min-width           : 1280px;
+  height              : 100vh;
+  min-height          : 753px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(247, 250, 251, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.wireframefourcopy2 .rectangle {
+  background-color    : rgba(244, 244, 244, 1.0);
+  top                 : 74px;
+  height              : 680px;
+  box-sizing          : border-box;
+  width               : 279px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1002px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 74px;
+  height              : 680px;
+  box-sizing          : border-box;
+  width               : 818px;
+  position            : absolute;
+  margin              : 0;
+  left                : 187px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .expertisebiography {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : auto;
+  width               : 192px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1022px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.wireframefourcopy2 .relatedtopicscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 192px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1022px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.wireframefourcopy2 .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 116px;
+  height              : 1px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1022px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .line2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 503px;
+  height              : 3px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1022px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 638px;
+  height              : 1px;
+  width               : 817px;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 95px;
+  height              : 445px;
+  width               : 755px;
+  position            : absolute;
+  margin              : 0;
+  left                : 210px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 95px;
+  height              : 71px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .group6 .rectangle3 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .group6 .rectangle11 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 31px;
+  height              : 9px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .group6 .rectangle2 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 62px;
+  height              : 9px;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 374px;
+  height              : 71px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy9 .rectangle3 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy9 .rectangle11 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 31px;
+  height              : 9px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy9 .rectangle2 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 62px;
+  height              : 9px;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 282px;
+  width               : 439px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy91 .rectangle3 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 211px;
+  height              : 9px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy91 .rectangle11 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 242px;
+  height              : 9px;
+  width               : 267px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy91 .rectangle2 {
+  background-color    : rgba(236, 236, 236, 1.0);
+  top                 : 273px;
+  height              : 9px;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .descriptioncopy91 .alanstern {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : 204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.wireframefourcopy2 .chatwindow .a5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : 63px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 698px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .a7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 64px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .chatwindow .a7copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 374px;
+  height              : 64px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 755px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : -4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 755px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectangle2 {
+  background-color    : rgba(72, 79, 53, 1.0);
+  top                 : 0px;
+  height              : 755px;
+  box-sizing          : border-box;
+  width               : 192px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .a5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 118px;
+  width               : 122px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 657px;
+  height              : 35px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .group3 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .group3 .group2 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .group3 .iconsaddsmall2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .group3 .iconsaddsmall2 .iconsaddsmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 15px;
+  width               : 15px;
+  position            : relative;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .group3 .iconsaddsmall2 .iconsaddsmall .iconsaddsmall1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectangle11 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 184px;
+  height              : 43px;
+  box-sizing          : border-box;
+  width               : 188px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectangle11:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectanglecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 354px;
+  height              : 43px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectanglecopy:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectanglecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 452px;
+  height              : 43px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectanglecopy2:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : 43px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectanglecopy4:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 227px;
+  height              : 43px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .leftsidebar .group4 .rectanglecopy5:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group4 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 195px;
+  height              : 292px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group4 .group5 .profile {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .group4 .group5 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .group4 .group5 .private {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 171px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .group4 .group5 .expert {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 268px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 238px;
+  height              : 17px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .path2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 369px;
+  height              : 17px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .path2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 464px;
+  height              : 17px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 201px;
+  height              : 432px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group9 .rectanglecopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 349px;
+  height              : 43px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .leftsidebar .group9 .rectanglecopy10:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group9 .rectanglecopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 389px;
+  height              : 43px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .leftsidebar .group9 .rectanglecopy11:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group9 .settingscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 362px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .group9 .settingscopy:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group9 .logoutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 402px;
+  height              : auto;
+  width               : 136px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .group9 .logoutcopy:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .leftsidebar .group9 .pathcopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 369px;
+  height              : 10px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group9 .pathcopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 10px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .group9 .pathcopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 409px;
+  height              : 10px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .word {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 142px;
+  height              : 407px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .leftsidebar .word .jason {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.wireframefourcopy2 .leftsidebar .word .groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 127px;
+  height              : auto;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .word .groupcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 157px;
+  height              : auto;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .word .groupcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 284px;
+  height              : auto;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .word .groupcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 254px;
+  height              : auto;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .word .amyhill {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 383px;
+  height              : auto;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .word .alanstern {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 353px;
+  height              : auto;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .leftsidebar .word .groupcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : auto;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .backbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 29px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .backbutton:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .backbutton .rectangle2 {
+  background-color    : rgba(174, 192, 126, 1.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .backbutton .back {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.wireframefourcopy2 .dralansternwasb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 145px;
+  height              : auto;
+  width               : 212px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1024px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : justify;
+  line-height         : 12.0px;
+}
+.wireframefourcopy2 .dralansternwasb .span1 {
+  line-height         : 14.0px;
+}
+.wireframefourcopy2 .dralansternwasb .span2 {
+  font-size           : 16.0px;
+  line-height         : 19.0px;
+}
+.wireframefourcopy2 .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 542px;
+  height              : 40px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1032px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .group7:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .group7 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .group7 .physicaltreatment {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.wireframefourcopy2 .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 584px;
+  height              : 40px;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1125px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .group8:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .group8 .rectanglecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .group8 .ophthalmicsurgery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.wireframefourcopy2 .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 632px;
+  height              : 40px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1061px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .group10:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .group10 .rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .group10 .elderly {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.wireframefourcopy2 .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 675px;
+  height              : 40px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1138px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy2 .group11:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy2 .group11 .rectanglecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .group11 .healthyrecipe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.wireframefourcopy2 .groupcopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 660px;
+  height              : 50px;
+  width               : 752px;
+  position            : absolute;
+  margin              : 0;
+  left                : 212px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .groupcopy9 .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  box-sizing          : border-box;
+  width               : 752px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .groupcopy9 .sendamessage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 354px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.wireframefourcopy2 .groupcopy9 .xiaolianx {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .groupcopy9 .tupian {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 702px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy2 .line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 144px;
+  height              : 1px;
+  width               : 816px;
+  position            : absolute;
+  margin              : 0;
+  left                : 188px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

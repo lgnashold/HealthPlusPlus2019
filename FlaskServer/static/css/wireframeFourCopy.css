@@ -1,0 +1,557 @@
+
+
+.wireframefourcopy {
+  width               : 100%;
+  min-width           : 1280px;
+  height              : 100vh;
+  min-height          : 753px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(246, 249, 250, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.wireframefourcopy .happydiverseadultsoutdoors1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 116px;
+  height              : 407px;
+  width               : 1079px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .corvinawhyussupp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 203px;
+  height              : auto;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.wireframefourcopy .corvinawhyussupp .span1 {
+  line-height         : 36.0px;
+}
+.wireframefourcopy .corvinawhyussupp .span2 {
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  line-height         : 58.0px;
+}
+.wireframefourcopy .corvinawhyussupp .span3 {
+  line-height         : 36.0px;
+}
+.wireframefourcopy .corvinawhyussupp .span4 {
+  color               : rgba(255, 255, 255, 1.0);
+  line-height         : 40.0px;
+}
+.wireframefourcopy .corvinawhyussupp .span5 {
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  line-height         : 40.0px;
+}
+.wireframefourcopy .corvinawhyussupp .span6 {
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  line-height         : 40.0px;
+}
+.wireframefourcopy .corvinawhyussupp .span7 {
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  line-height         : 17.0px;
+}
+.wireframefourcopy .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 577px;
+  height              : 139px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 895px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy .group2:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.wireframefourcopy .group2 .rectanglecopy2 {
+  background-color    : rgba(178, 191, 143, 0.5);
+  top                 : 0px;
+  height              : 139px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group2 .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 128px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group2 .patientadvocate {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 219px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.wireframefourcopy .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 577px;
+  height              : 139px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy .group:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.wireframefourcopy .group .rectangle {
+  background-color    : rgba(178, 191, 143, 0.5);
+  top                 : 0px;
+  height              : 139px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 133px;
+  width               : 138px;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group .virtualsupportgrou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.wireframefourcopy .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 577px;
+  height              : 139px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 499px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy .group4:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.wireframefourcopy .group4 .rectanglecopy {
+  background-color    : rgba(178, 191, 143, 0.5);
+  top                 : 0px;
+  height              : 139px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group4 .a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 128px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group4 .patientlearning {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 219px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.wireframefourcopy .whatweprovide {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 534px;
+  height              : auto;
+  width               : 681px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(132, 132, 132, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.wireframefourcopy .group2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 22px;
+  width               : 732px;
+  position            : absolute;
+  margin              : 0;
+  left                : 451px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group2copy2 .group2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 732px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group2copy2 .group2copy .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 143px;
+  position            : absolute;
+  margin              : 0;
+  left                : 589px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.wireframefourcopy .group2copy2 .group2copy .group3:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy .group2copy2 .group2copy .group3 .authbuttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 143px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group2copy2 .group2copy .group3 .authbuttons .rectangle {
+  background-color    : rgba(174, 192, 126, 1.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 143px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframefourcopy .group2copy2 .group2copy .group3 .signinsignup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(49, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.wireframefourcopy .group2copy2 .group2copy .virtualsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(49, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.wireframefourcopy .group2copy2 .group2copy .virtualsupport:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy .group2copy2 .group2copy .patientlearning {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 145px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(49, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.wireframefourcopy .group2copy2 .group2copy .patientlearning:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy .group2copy2 .group2copy .patientadocate {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 296px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(49, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.wireframefourcopy .group2copy2 .group2copy .patientadocate:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy .group2copy2 .group2copy .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 444px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(49, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.wireframefourcopy .group2copy2 .group2copy .contactus:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.wireframefourcopy .readmore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 474px;
+  height              : auto;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.wireframefourcopy .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 480px;
+  height              : 10px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 232px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
